@@ -1,0 +1,12 @@
+proxies:
+  - name: Geph5-SOCKS-9909
+    type: socks5
+    server: 127.0.0.1
+    port: 9909
+    udp: false
+
+  - name: Geph5-SOCKS-9911
+    type: socks5
+    server: 127.0.0.1
+    port: 9911
+    udp: false
